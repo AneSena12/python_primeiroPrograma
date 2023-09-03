@@ -1,2 +1,2 @@
-# python_primeiroPrograma
-Primeiro programa utilizando a linguagem Python para treinamento, simulando algumas funções bancárias de saque, extrato e depósito. 
+# Primeiro Programa em Python
+Primeiro programa utilizando a linguagem Python para treinamento, simulando algumas funções bancárias como saque, extrato e depósito. 
